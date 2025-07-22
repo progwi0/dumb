@@ -1,5 +1,5 @@
-# 🍪 Dumb
-🍪 Potato chatbot.
+# 🥔 Dumb
+🥔 Potato chatbot.
 
 Dumb - is potato chatbot, made in Python3!
 
